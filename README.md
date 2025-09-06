@@ -8,16 +8,16 @@
 
 ## ✨ Project Overview
 
-Welcome to the **alx_travel_app**! This project is a robust, real-world Django application designed to be the foundation for a powerful travel listing platform. Our mission is to build a scalable and secure backend that sets the standard for modern web development.
+Welcome to the **alx_travel_app**! This project is a robust, real-world Django application designed to be the foundation for a powerful travel listing platform. This repository represents the crucial first milestone for the **ALX Backend Web Pro-Development curriculum**, focusing on a production-ready setup from the ground up.
 
-This repository represents the crucial first milestone, where we've focused on creating a production-ready setup from the ground up.
+Our mission is to build a scalable and secure backend that demonstrates industry-standard practices, preparing students to tackle complex, real-world development challenges.
 
 ## 🌟 Key Features
 
 * **Django-Powered Backend:** Built on the reliable and feature-rich Django framework.
 * **RESTful API:** Developed with Django REST Framework for clean, well-structured API endpoints.
 * **MySQL Database:** Utilizes a robust relational database for secure and efficient data management.
-* **API Documentation:** Integrated with **Swagger UI** (`drf-yasg`) for automatic, interactive, and beautifully documented API endpoints. 
+* **API Documentation:** Integrated with **Swagger UI** (`drf-yasg`) for automatic, interactive, and beautifully documented API endpoints.
 * **Secure Configuration:** Employs `django-environ` to handle sensitive data via `.env` files, ensuring secrets are never committed to the repository.
 * **CORS Headers:** Configured with `django-cors-headers` for seamless cross-origin resource sharing.
 
@@ -87,4 +87,4 @@ This project is licensed under the BSD License. See the `LICENSE` file for detai
 
 ---
 
-Made with ❤️ by [Dwayne Master 007](https://github.com/Dwaynemaster007)
+Made with ❤️ by [Dwayne Master 007](https://github.com/Dwaynemaster007) for the ALX Backend Web Pro-Development curriculum.
